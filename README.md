@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Pixep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixep&show_icons=true&theme=default&hide_title=true)](https://github.com/pixep/github-readme-stats)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixep&layout=compact&hide_title=true)
 
 <!--
 **Pixep/pixep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
